@@ -18,7 +18,7 @@ export class SignupComponent {
   public email = '';
   public password = '';
   public username = '';
-  public fullname = '';
+  public fullname = ''
 
 
   signUp() {
